@@ -25,9 +25,9 @@ Follow these steps to set up and work on your project:
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge `firstName-lastName` Branch into master on **your fork, don't make Pull Requests against Lambda's repository**.
-- [ ] Please don't merge your own pull request.
-- [ ] Add your _Team Lead_ as a Reviewer on the Pull-request
+- [x] Submit a Pull-Request to merge `firstName-lastName` Branch into master on **your fork, don't make Pull Requests against Lambda's repository**.
+- [x] Please don't merge your own pull request.
+- [x] Add your _Team Lead_ as a Reviewer on the Pull-request
 - [ ] Your _Team Lead_ will count the challenge as done by merging the branch into _master_.
 
 ## Commits
@@ -43,7 +43,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [x] Why do tables need a `primary key`?
   Tables need primary keys to uniquely identify each entry in the database.
-  
+
 - [x] What is the name given to a table column that references the primary key on another table.
   A Foreign Key
 
